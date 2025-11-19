@@ -1,0 +1,12 @@
+{
+  "name": "ProductTrack Pro",
+  "description": "A data management tool for importing Excel product lists, tracking processing status, and generating AI-powered insights.",
+  "dependencies": {
+    "xlsx": "^0.18.5",
+    "lucide-react": "^0.263.1",
+    "clsx": "^2.0.0",
+    "tailwind-merge": "^1.14.0",
+    "@google/genai": "^0.0.2"
+  },
+  "requestFramePermissions": []
+}
